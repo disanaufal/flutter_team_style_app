@@ -15,4 +15,4 @@ Learning Flutter fundametals with real-world team practices.
 
 ## new
 - Line from Developer B
-- Line conflict
+- Line conflict from Developer B
